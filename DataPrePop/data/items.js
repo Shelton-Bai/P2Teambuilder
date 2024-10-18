@@ -7528,4 +7528,4 @@ const Items = {
 	},
 };
 
-module.exports = { Items };
+module.exports = Items;

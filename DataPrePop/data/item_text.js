@@ -2427,4 +2427,4 @@ const ItemsText = {
 	},
 };
 
-module.exports = { ItemsText };
+module.exports = ItemsText; 

@@ -7548,4 +7548,4 @@ const MovesText = {
 	},
 };
 
-module.exports = { MovesText };
+module.exports =  MovesText;

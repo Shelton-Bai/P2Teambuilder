@@ -21249,4 +21249,4 @@ const Moves = {
 	},
 };
 
-module.exports = { Moves };
+module.exports = Moves;

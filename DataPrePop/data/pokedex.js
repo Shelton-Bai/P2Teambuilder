@@ -1,4 +1,4 @@
-export const Pokedex = {
+const Pokedex = {
 	bulbasaur: {
 		num: 1,
 		name: "Bulbasaur",
@@ -19750,3 +19750,5 @@ export const Pokedex = {
 		gen: 5,
 	},
 };
+
+module.exports = Pokedex;

@@ -1,4 +1,4 @@
-export const Learnsets = {
+const Learnsets = {
 	missingno: {
 		learnset: {
 			blizzard: ["3L1"],
@@ -93564,3 +93564,5 @@ export const Learnsets = {
 		eventOnly: true,
 	},
 };
+
+module.exports = Learnsets;

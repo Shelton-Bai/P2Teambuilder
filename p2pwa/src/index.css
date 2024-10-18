@@ -1,3 +1,41 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+	.input{
+		@apply bg-inherit outline-none
+	}
+
+	.input-text{
+		@apply border-2 rounded-xl border-pory-blue flex  text-pory-blue placeholder:text-pory-blue focus:border-pory-red p-2 focus:text-pory-red focus:placeholder:text-pory-red text-4xl
+	}
+
+	.selectfield{
+		@apply text-xl text-white border rounded-xl p-2 flex
+	}
+
+	.switchtrack-xl{
+		@apply flex h-6 w-10 shrink-0 cursor-default rounded-full shadow-inner bg-clip-padding border border-solid border-white p-[3px] box-border transition duration-200 ease-in-out bg-pory-red group-selected:bg-pory-blue outline-none
+	}
+
+	.switchthumb-xl{
+		@apply h-4 w-4 transform rounded-full bg-white shadow transition duration-200 ease-in-out translate-x-0 group-selected:translate-x-[100%]
+	}
+
+	.switchtrack-2xl{
+		@apply flex h-8 w-14 shrink-0 cursor-default rounded-full shadow-inner bg-clip-padding border border-solid border-white p-[3px] box-border transition duration-200 ease-in-out bg-pory-red group-selected:bg-pory-blue outline-none
+	}
+
+	.switchthumb-2xl{
+		@apply h-6 w-6 transform rounded-full bg-white shadow transition duration-200 ease-in-out translate-x-0 group-selected:translate-x-[100%]
+	}
+
+	.radio-xl{
+		@apply rounded-full bg-inherit h-6 w-6 flex items-center justify-center border-pory-red group-selected:border-pory-blue border-2
+	}
+
+	.radiothumb-xl{
+		@apply rounded-full group-selected:bg-pory-blue transition duration-200 h-2 w-2
+	}
+}

@@ -1,4 +1,4 @@
-export const AbilitiesText = {
+const AbilitiesText = {
 	noability: {
 		name: "No Ability",
 		shortDesc: "Does nothing.",
@@ -2265,3 +2265,5 @@ export const AbilitiesText = {
 		activate: "  [POKEMON] extends [MOVE] by 2 turns!",
 	},
 };
+
+module.exports = AbilitiesText;

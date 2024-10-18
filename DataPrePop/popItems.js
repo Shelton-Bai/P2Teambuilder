@@ -1,48 +1,111 @@
 const axios = require('axios');
-const { Items } = require('./data/items');
-const { ItemsText } = require('./data/item_text');
+const fs = require('fs');
+const Items = require('./data/items'); // Assuming this is your items.js file
+const ItemsText = require('./data/item_text'); // Assuming this is your item_text.js file
 
-const API_URL = 'http://localhost:8080/p2api/items';
+const baseURL = 'http://localhost:8080/p2api/items';
+const logFile = './itemsLog.txt';
 
-const filterStandardItems = (items) => {
-    const result = {};
-    for (const [alias, item] of Object.entries(items)) {
-        if (!item.isNonstandard) {
-            result[alias] = item;
-        }
-    }
-    return result;
-};
+// Configurable variables for batch size and delay to control multithreading
+const BATCH_SIZE = 300;
+const DELAY = 1000; // in milliseconds (1 second)
 
-const formatItem = (alias, item, itemText) => {
-    return {
-        alias,
-        name: itemText.name || item.name,
-        desc: itemText.description || '',
-        shortDesc: itemText.shortDesc || itemText.description || '',
-        user: item.itemUser ? item.itemUser.join(', ') : '',
-        isNonstandard: item.isNonstandard || null,
-    };
-};
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const processItems = async () => {
-    const standardItems = filterStandardItems(Items);
+// Function to populate the database with item data in batches
+async function populateItems() {
+	const startTime = Date.now();
+	const logStream = fs.createWriteStream(logFile, { flags: 'a' });
+	const promises = [];
 
-    for (const [alias, item] of Object.entries(standardItems)) {
-        const itemText = ItemsText[alias] || {};
-        const formattedItem = formatItem(alias, item, itemText);
+	for (const alias in Items) {
+		if (Items.hasOwnProperty(alias)) {
+			const item = Items[alias];
+			const itemText = ItemsText[alias] || {};
 
-        try {
-            await axios.put(API_URL, formattedItem);
-            console.log(`Successfully saved item ${alias}`);
-        } catch (error) {
-            console.error(`Error saving item ${alias}: ${error}`);
-        }
-    }
-};
+			// Create the item object
+			const itemData = {
+				alias: alias,
+				name: item.name,
+				user: item.itemUser ? item.itemUser.join(', ') : null,
+				isNonstandard: item.isNonstandard || null,
+				description: itemText.description || null,
+				shortDescription: itemText.shortDesc || null,
+			};
 
-processItems().then(() => {
-    console.log('All items processed.');
-}).catch(error => {
-    console.error('An error occurred:', error);
-});
+			const promise = axios.post(baseURL, itemData)
+				.then(() => {
+					logStream.write(`Success: Added ${item.name} (${itemText.shortDesc})\n`);
+				})
+				.catch((error) => {
+					logStream.write(`Error: Adding ${item.name} (${itemText.shortDesc}) - ${error.message}\n`);
+				});
+
+			promises.push(promise);
+
+			// Process in batches
+			if (promises.length >= BATCH_SIZE) {
+				await Promise.all(promises);
+				promises.length = 0;
+				await sleep(DELAY);
+			}
+		}
+	}
+
+	// Process remaining promises
+	if (promises.length > 0) {
+		await Promise.all(promises);
+	}
+	logStream.end();
+	const endTime = Date.now();
+	console.log(`Population of items completed in ${(endTime - startTime) / 1000} seconds`);
+}
+
+// Function to remove non-standard items in batches
+async function removeNonStandardItems() {
+	const startTime = Date.now();
+	const logStream = fs.createWriteStream(logFile, { flags: 'a' });
+	const promises = [];
+
+	for (const alias in Items) {
+		if (Items.hasOwnProperty(alias) && Items[alias].isNonstandard === 'Past') {
+			const promise = axios.delete(`${baseURL}/${alias}`)
+				.then(() => {
+					logStream.write(`Success: Removed non-standard ${alias}\n`);
+				})
+				.catch((error) => {
+					logStream.write(`Error: Removing non-standard ${alias} - ${error.message}\n`);
+				});
+
+			promises.push(promise);
+
+			// Process in batches
+			if (promises.length >= BATCH_SIZE) {
+				await Promise.all(promises);
+				promises.length = 0;
+				await sleep(DELAY);
+			}
+		}
+	}
+
+	// Process remaining promises
+	if (promises.length > 0) {
+		await Promise.all(promises);
+	}
+	logStream.end();
+	const endTime = Date.now();
+	console.log(`Removal of non-standard items completed in ${(endTime - startTime) / 1000} seconds`);
+}
+
+// Main execution sequence
+(async function main() {
+	fs.writeFileSync(logFile, `Items population started at ${new Date().toISOString()}\n`, { flag: 'w' });
+
+	// Populate database with items
+	await populateItems();
+
+	// Remove non-standard items
+	await removeNonStandardItems();
+
+	fs.appendFileSync(logFile, `Items population completed at ${new Date().toISOString()}\n`);
+})();

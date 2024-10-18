@@ -1,0 +1,823 @@
+Items population started at 2024-10-14T00:52:40.328Z
+Success: Added Jaboca Berry (If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.)
+Success: Added Leppa Berry (Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.)
+Success: Added Electirizer (Evolves Electabuzz into Electivire when traded.)
+Success: Added Loaded Dice (Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.)
+Success: Added Kangaskhanite (If held by a Kangaskhan, this item allows it to Mega Evolve in battle.)
+Success: Added Nanab Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Poke Ball (A device for catching wild Pokemon. It is designed as a capsule system.)
+Success: Added Eevium Z (If held by an Eevee with Last Resort, it can use Extreme Evoboost.)
+Success: Added Figy Berry (Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.)
+Success: Added Love Ball (Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.)
+Success: Added Moon Stone (Evolves certain species of Pokemon when used.)
+Success: Added Pinap Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Lagging Tail (Holder moves last in its priority bracket.)
+Success: Added Electrium Z (If holder has an Electric move, this item allows it to use an Electric Z-Move.)
+Success: Added Gold Bottle Cap (Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.)
+Success: Added Iron Plate (Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.)
+Success: Added Primarium Z (If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.)
+Success: Added Ghost Gem (Holder's first successful Ghost-type attack will have 1.3x power. Single use.)
+Success: Added Metal Powder (If held by a Ditto that hasn't Transformed, its Defense is doubled.)
+Success: Added Fighting Gem (Holder's first successful Fighting-type attack will have 1.3x power. Single use.)
+Success: Added Kasib Berry (Halves damage taken from a supereffective Ghost-type attack. Single use.)
+Success: Added Durin Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Normalium Z (If holder has a Normal move, this item allows it to use a Normal Z-Move.)
+Success: Added Mewnium Z (If held by a Mew with Psychic, it can use Genesis Supernova.)
+Success: Added Magost Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Electric Seed (If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.)
+Success: Added Fossilized Drake (Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.)
+Success: Added Eject Pack (If the holder's stat stages are lowered, it switches to a chosen ally. Single use.)
+Success: Added Petaya Berry (Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.)
+Success: Added Mystic Water (Holder's Water-type attacks have 1.2x power.)
+Success: Added Fossilized Bird (Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.)
+Success: Added Dusk Ball (A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.)
+Success: Added Life Orb (Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.)
+Success: Added Mewtwonite Y (If held by a Mewtwo, this item allows it to Mega Evolve in battle.)
+Success: Added Gyaradosite (If held by a Gyarados, this item allows it to Mega Evolve in battle.)
+Success: Added Maranga Berry (Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.)
+Success: Added Luminous Moss (Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.)
+Success: Added Dream Ball (A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.)
+Success: Added Park Ball (A special Poke Ball for the Pal Park.)
+Success: Added Heavy Ball (A Poke Ball for catching very heavy Pokemon.)
+Success: Added Micle Berry (Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.)
+Success: Added Grass Gem (Holder's first successful Grass-type attack will have 1.3x power. Single use.)
+Success: Added Pixie Plate (Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.)
+Success: Added Glalitite (If held by a Glalie, this item allows it to Mega Evolve in battle.)
+Success: Added Heracronite (If held by a Heracross, this item allows it to Mega Evolve in battle.)
+Success: Added Masterpiece Teacup (Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.)
+Success: Added Flying Memory (Holder's Multi-Attack is Flying type.)
+Success: Added Grass Memory (Holder's Multi-Attack is Grass type.)
+Success: Added Griseous Core (If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.)
+Success: Added Master Ball (The best Ball with the ultimate performance. It will catch any wild Pokemon.)
+Success: Added Miracle Seed (Holder's Grass-type attacks have 1.2x power.)
+Success: Added Kommonium Z (If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.)
+Success: Added Griseous Orb (If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.)
+Success: Added Fire Stone (Evolves certain species of Pokemon when used.)
+Success: Added Oran Berry (Restores 10 HP when at 1/2 max HP or less. Single use.)
+Success: Added Power Belt (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Pinsirite (If held by a Pinsir, this item allows it to Mega Evolve in battle.)
+Success: Added Helix Fossil (Can be revived into Omanyte.)
+Success: Added Flying Gem (Holder's first successful Flying-type attack will have 1.3x power. Single use.)
+Success: Added Leek (If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.)
+Success: Added Expert Belt (Holder's attacks that are super effective against the target do 1.2x damage.)
+Success: Added Payapa Berry (Halves damage taken from a supereffective Psychic-type attack. Single use.)
+Success: Added Lax Incense (The accuracy of attacks against the holder is 0.9x.)
+Success: Added King's Rock (Holder's attacks without a chance to flinch gain a 10% chance to flinch.)
+Success: Added Mind Plate (Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.)
+Success: Added Fossilized Fish (Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.)
+Success: Added Mail (Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.)
+Success: Added Mental Herb (Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.)
+Success: Added Fighting Memory (Holder's Multi-Attack is Fighting type.)
+Success: Added Houndoominite (If held by a Houndoom, this item allows it to Mega Evolve in battle.)
+Success: Added Galladite (If held by a Gallade, this item allows it to Mega Evolve in battle.)
+Success: Added Ganlon Berry (Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.)
+Success: Added Magnet (Holder's Electric-type attacks have 1.2x power.)
+Success: Added Hondew Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Dubious Disc (Evolves Porygon2 into Porygon-Z when traded.)
+Success: Added Latiosite (If held by a Latios, this item allows it to Mega Evolve in battle.)
+Success: Added Fossilized Dino (Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.)
+Success: Added Plume Fossil (Can be revived into Archen.)
+Success: Added Mago Berry (Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.)
+Success: Added Lucky Punch (If held by a Chansey, its critical hit ratio is raised by 2 stages.)
+Success: Added Never-Melt Ice (Holder's Ice-type attacks have 1.2x power.)
+Success: Added Muscle Band (Holder's physical attacks have 1.1x power.)
+Success: Added Ground Gem (Holder's first successful Ground-type attack will have 1.3x power. Single use.)
+Success: Added Liechi Berry (Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.)
+Success: Added Light Clay (Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.)
+Success: Added Metronome (Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.)
+Success: Added Power Band (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Misty Seed (If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.)
+Success: Added Nomel Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Occa Berry (Halves damage taken from a supereffective Fire-type attack. Single use.)
+Success: Added Malicious Armor (Evolves Charcadet into Ceruledge when used.)
+Success: Added Icy Rock (Holder's use of Hail lasts 8 turns instead of 5.)
+Success: Added Ground Memory (Holder's Multi-Attack is Ground type.)
+Success: Added Kebia Berry (Halves damage taken from a supereffective Poison-type attack. Single use.)
+Success: Added Lopunnite (If held by a Lopunny, this item allows it to Mega Evolve in battle.)
+Success: Added Incinium Z (If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.)
+Success: Added Nest Ball (A Poke Ball that works especially well on weaker Pokemon in the wild.)
+Success: Added Lucarionite (If held by a Lucario, this item allows it to Mega Evolve in battle.)
+Success: Added Macho Brace (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Level Ball (A Poke Ball for catching Pokemon that are a lower level than your own.)
+Success: Added Ghostium Z (If holder has a Ghost move, this item allows it to use a Ghost Z-Move.)
+Success: Added Mewtwonite X (If held by a Mewtwo, this item allows it to Mega Evolve in battle.)
+Success: Added Pikanium Z (If held by a Pikachu with Volt Tackle, it can use Catastropika.)
+Success: Added Lure Ball (A Poke Ball for catching Pokemon hooked by a Rod when fishing.)
+Success: Added Jaw Fossil (Can be revived into Tyrunt.)
+Success: Added Haban Berry (Halves damage taken from a supereffective Dragon-type attack. Single use.)
+Success: Added Iapapa Berry (Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.)
+Success: Added Lustrous Orb (If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.)
+Success: Added Odd Incense (Holder's Psychic-type attacks have 1.2x power.)
+Success: Added Love Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Flower Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Fairium Z (If holder has a Fairy move, this item allows it to use a Fairy Z-Move.)
+Success: Added Kelpsy Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Earth Plate (Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.)
+Success: Added Grassium Z (If holder has a Grass move, this item allows it to use a Grass Z-Move.)
+Success: Added Oval Stone (Evolves Happiny into Chansey when held and leveled up during the day.)
+Success: Added Heavy-Duty Boots (When switching in, the holder is unaffected by hazards on its side of the field.)
+Success: Added Galarica Cuff (Evolves Galarian Slowpoke into Galarian Slowbro when used.)
+Success: Added Passho Berry (Halves damage taken from a supereffective Water-type attack. Single use.)
+Success: Added Heal Ball (A remedial Poke Ball that restores the caught Pokemon's HP and status problem.)
+Success: Added Float Stone (Holder's weight is halved.)
+Success: Added Metal Coat (Holder's Steel-type attacks have 1.2x power.)
+Success: Added Light Ball (If held by a Pikachu, its Attack and Sp. Atk are doubled.)
+Success: Added Garchompite (If held by a Garchomp, this item allows it to Mega Evolve in battle.)
+Success: Added Gardevoirite (If held by a Gardevoir, this item allows it to Mega Evolve in battle.)
+Success: Added Moon Ball (A Poke Ball for catching Pokemon that evolve using the Moon Stone.)
+Success: Added Fightinium Z (If holder has a Fighting move, this item allows it to use a Fighting Z-Move.)
+Success: Added Persim Berry (Holder is cured if it is confused. Single use.)
+Success: Added Poisonium Z (If holder has a Poison move, this item allows it to use a Poison Z-Move.)
+Success: Added Fast Ball (A Poke Ball that makes it easier to catch Pokemon which are quick to run away.)
+Success: Added Mirror Herb (When an opposing Pokemon raises a stat stage, the holder copies it. Single use.)
+Success: Added Kee Berry (Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.)
+Success: Added Lansat Berry (Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.)
+Success: Added Pidgeotite (If held by a Pidgeot, this item allows it to Mega Evolve in battle.)
+Success: Added Pomeg Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Premier Ball (A rare Poke Ball that has been crafted to commemorate an event.)
+Success: Added Pikashunium Z (If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.)
+Success: Added Eviolite (If holder's species can evolve, its Defense and Sp. Def are 1.5x.)
+Success: Added Leaf Stone (Evolves certain species of Pokemon when used.)
+Success: Added Grepa Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Metal Alloy (Evolves Duraludon into Archaludon when used.)
+Success: Added Eject Button (If holder survives a hit, it immediately switches out to a chosen ally. Single use.)
+Success: Added Fairy Gem (Holder's first successful Fairy-type attack will have 1.3x power. Single use.)
+Success: Added Old Amber (Can be revived into Aerodactyl.)
+Success: Added Hard Stone (Holder's Rock-type attacks have 1.2x power.)
+Success: Added Luxury Ball (A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.)
+Success: Added Icium Z (If holder has an Ice move, this item allows it to use an Ice Z-Move.)
+Success: Added Flyinium Z (If holder has a Flying move, this item allows it to use a Flying Z-Move.)
+Success: Added Lum Berry (Holder cures itself if it has a non-volatile status or is confused. Single use.)
+Success: Added Insect Plate (Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.)
+Success: Added Focus Sash (If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.)
+Success: Added Mawilite (If held by a Mawile, this item allows it to Mega Evolve in battle.)
+Success: Added Prism Scale (Evolves Feebas into Milotic when traded.)
+Success: Added Pamtre Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Power Lens (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Metagrossite (If held by a Metagross, this item allows it to Mega Evolve in battle.)
+Success: Added Power Herb (Holder's two-turn moves complete in one turn (except Sky Drop). Single use.)
+Success: Added Ghost Memory (Holder's Multi-Attack is Ghost type.)
+Success: Added Fire Memory (Holder's Multi-Attack is Fire type.)
+Success: Added Power Weight (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Manectite (If held by a Manectric, this item allows it to Mega Evolve in battle.)
+Success: Added Normal Gem (Holder's first successful Normal-type attack will have 1.3x power. Single use.)
+Success: Added Icicle Plate (Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.)
+Success: Added Ice Memory (Holder's Multi-Attack is Ice type.)
+Success: Added Dusk Stone (Evolves certain species of Pokemon when used.)
+Success: Added Enigma Berry (Restores 1/4 max HP after holder is hit by a supereffective move. Single use.)
+Success: Added Fairy Memory (Holder's Multi-Attack is Fairy type.)
+Success: Added Marshadium Z (If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.)
+Success: Added Grip Claw (Holder's partial-trapping moves always last 7 turns.)
+Success: Added Electric Gem (Holder's first successful Electric-type attack will have 1.3x power. Single use.)
+Success: Added Medichamite (If held by a Medicham, this item allows it to Mega Evolve in battle.)
+Success: Added Focus Band (Holder has a 10% chance to survive an attack that would KO it with 1 HP.)
+Success: Added Protective Pads (Holder's moves are protected from adverse contact effects, except Pickpocket.)
+Success: Added Poison Gem (Holder's first successful Poison-type attack will have 1.3x power. Single use.)
+Success: Added Gengarite (If held by a Gengar, this item allows it to Mega Evolve in battle.)
+Success: Added Poison Barb (Holder's Poison-type attacks have 1.2x power.)
+Success: Added Magmarizer (Evolves Magmar into Magmortar when traded.)
+Success: Added Heat Rock (Holder's use of Sunny Day lasts 8 turns instead of 5.)
+Success: Added Power Anklet (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Fire Gem (Holder's first successful Fire-type attack will have 1.3x power. Single use.)
+Success: Added Lycanium Z (If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.)
+Success: Added Friend Ball (A Poke Ball that makes caught Pokemon more friendly.)
+Success: Added Dragonium Z (If holder has a Dragon move, this item allows it to use a Dragon Z-Move.)
+Success: Added Electric Memory (Holder's Multi-Attack is Electric type.)
+Success: Added Latiasite (If held by a Latias, this item allows it to Mega Evolve in battle.)
+Success: Added Ice Gem (Holder's first successful Ice-type attack will have 1.3x power. Single use.)
+Success: Added Lustrous Globe (If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.)
+Success: Added Grassy Seed (If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.)
+Success: Added Ice Stone (Evolves certain species of Pokemon when used.)
+Success: Added Iron Ball (Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.)
+Success: Added Lunalium Z (Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.)
+Success: Added Flame Orb (At the end of every turn, this item attempts to burn the holder.)
+Success: Added Galarica Wreath (Evolves Galarian Slowpoke into Galarian Slowking when used.)
+Success: Added Groundium Z (If holder has a Ground move, this item allows it to use a Ground Z-Move.)
+Success: Added Poison Memory (Holder's Multi-Attack is Poison type.)
+Success: Added Meadow Plate (Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.)
+Success: Added Dragon Scale (Evolves Seadra into Kingdra when traded.)
+Success: Added Leftovers (At the end of every turn, holder restores 1/16 of its max HP.)
+Success: Added Dread Plate (Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.)
+Success: Added Full Incense (Holder moves last in its priority bracket.)
+Success: Added Hearthflame Mask (Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.)
+Success: Added Net Ball (A Poke Ball that works especially well on Water- and Bug-type Pokemon.)
+Success: Added Mimikium Z (If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.)
+Success: Added Great Ball (A high-performance Ball that provides a higher catch rate than a Poke Ball.)
+Success: Added Custap Berry (Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.)
+Success: Added Draco Plate (Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.)
+Success: Added Dragon Gem (Holder's first successful Dragon-type attack will have 1.3x power. Single use.)
+Success: Added Dive Ball (A Poke Ball that works especially well on Pokemon that live underwater.)
+Success: Added Dark Gem (Holder's first successful Dark-type attack will have 1.3x power. Single use.)
+Success: Added Pecha Berry (Holder is cured if it is poisoned. Single use.)
+Success: Added Cracked Pot (Evolves Sinistea into Polteageist when used.)
+Success: Added Darkinium Z (If holder has a Dark move, this item allows it to use a Dark Z-Move.)
+Success: Added Fist Plate (Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.)
+Success: Added Covert Cloak (Holder is not affected by the secondary effect of another Pokemon's attack.)
+Success: Added Cornn Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Dawn Stone (Evolves certain species of Pokemon when used.)
+Success: Added Deep Sea Scale (If held by a Clamperl, its Sp. Def is doubled.)
+Success: Added Chople Berry (Halves damage taken from a supereffective Fighting-type attack. Single use.)
+Success: Added Choice Specs (Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.)
+Success: Added Choice Scarf (Holder's Speed is 1.5x, but it can only select the first move it executes.)
+Success: Added Chilan Berry (Halves damage taken from a Normal-type attack. Single use.)
+Success: Added Chill Drive (Holder's Techno Blast is Ice type.)
+Success: Added Charti Berry (Halves damage taken from a supereffective Rock-type attack. Single use.)
+Success: Added Burn Drive (Holder's Techno Blast is Fire type.)
+Success: Added Cell Battery (Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.)
+Success: Added Charcoal (Holder's Fire-type attacks have 1.2x power.)
+Success: Added Booster Energy (Activates the Protosynthesis or Quark Drive Abilities. Single use.)
+Success: Added Belue Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Black Belt (Holder's Fighting-type attacks have 1.2x power.)
+Success: Added Banettite (If held by a Banette, this item allows it to Mega Evolve in battle.)
+Success: Added Berry Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Beedrillite (If held by a Beedrill, this item allows it to Mega Evolve in battle.)
+Success: Added Beast Ball (A special Poke Ball designed to catch Ultra Beasts.)
+Success: Added Blastoisinite (If held by a Blastoise, this item allows it to Mega Evolve in battle.)
+Success: Added Assault Vest (Holder's Sp. Def is 1.5x, but it can only select damaging moves.)
+Success: Added Audinite (If held by an Audino, this item allows it to Mega Evolve in battle.)
+Success: Added Ampharosite (If held by an Ampharos, this item allows it to Mega Evolve in battle.)
+Success: Added Aguav Berry (Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.)
+Success: Added Flame Plate (Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.)
+Success: Added Adamant Crystal (If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.)
+Success: Added Firium Z (If holder has a Fire move, this item allows it to use a Fire Z-Move.)
+Success: Added Abomasite (If held by an Abomasnow, this item allows it to Mega Evolve in battle.)
+Success: Added Power Bracer (Holder's Speed is halved. The Klutz Ability does not ignore this effect.)
+Success: Added Fairy Feather (Holder's Fairy-type attacks have 1.2x power.)
+Success: Added Deep Sea Tooth (If held by a Clamperl, its Sp. Atk is doubled.)
+Success: Added Diancite (If held by a Diancie, this item allows it to Mega Evolve in battle.)
+Success: Added Dome Fossil (Can be revived into Kabuto.)
+Success: Added Decidium Z (If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.)
+Success: Added Dragon Fang (Holder's Dragon-type attacks have 1.2x power.)
+Success: Added Dragon Memory (Holder's Multi-Attack is Dragon type.)
+Success: Added Douse Drive (Holder's Techno Blast is Water type.)
+Success: Added Colbur Berry (Halves damage taken from a supereffective Dark-type attack. Single use.)
+Success: Added Clover Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Claw Fossil (Can be revived into Anorith.)
+Success: Added Clear Amulet (Prevents other Pokemon from lowering the holder's stat stages.)
+Success: Added Cherish Ball (A rare Poke Ball that has been crafted to commemorate an occasion.)
+Success: Added Cameruptite (If held by a Camerupt, this item allows it to Mega Evolve in battle.)
+Success: Added Charizardite Y (If held by a Charizard, this item allows it to Mega Evolve in battle.)
+Success: Added Bug Memory (Holder's Multi-Attack is Bug type.)
+Success: Added Bright Powder (The accuracy of attacks against the holder is 0.9x.)
+Success: Added Blunder Policy (If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.)
+Success: Added Bottle Cap (Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.)
+Success: Added Bluk Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Black Sludge (Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.)
+Success: Added Blue Orb (If held by a Kyogre, this item triggers its Primal Reversion in battle.)
+Success: Added Black Glasses (Holder's Dark-type attacks have 1.2x power.)
+Success: Added Berry Juice (Restores 20 HP when at 1/2 max HP or less. Single use.)
+Success: Added Big Nugget (A big nugget of pure gold that gives off a lustrous gleam.)
+Success: Added Binding Band (Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.)
+Success: Added Big Root (Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.)
+Success: Added Babiri Berry (Halves damage taken from a supereffective Steel-type attack. Single use.)
+Success: Added Auspicious Armor (Evolves Charcadet into Armarouge when used.)
+Success: Added Blazikenite (If held by a Blaziken, this item allows it to Mega Evolve in battle.)
+Success: Added Aspear Berry (Holder is cured if it is frozen. Single use.)
+Success: Added Armor Fossil (Can be revived into Shieldon.)
+Success: Added Apicot Berry (Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.)
+Success: Added Altarianite (If held by an Altaria, this item allows it to Mega Evolve in battle.)
+Success: Added Aloraichium Z (If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.)
+Success: Added Absolite (If held by an Absol, this item allows it to Mega Evolve in battle.)
+Success: Added Alakazite (If held by an Alakazam, this item allows it to Mega Evolve in battle.)
+Success: Added Aerodactylite (If held by an Aerodactyl, this item allows it to Mega Evolve in battle.)
+Success: Added Air Balloon (Holder is immune to Ground-type attacks. Pops when holder is hit.)
+Success: Added Adamant Orb (If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.)
+Success: Added Aggronite (If held by an Aggron, this item allows it to Mega Evolve in battle.)
+Success: Added Adrenaline Orb (Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.)
+Success: Added Absorb Bulb (Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.)
+Success: Added Ability Shield (Holder's Ability cannot be changed by any effect.)
+Success: Added Damp Rock (Holder's use of Rain Dance lasts 8 turns instead of 5.)
+Success: Added Destiny Knot (If holder becomes infatuated, the other Pokemon also becomes infatuated.)
+Success: Added Cover Fossil (Can be revived into Tirtouga.)
+Success: Added Dark Memory (Holder's Multi-Attack is Dark type.)
+Success: Added Cornerstone Mask (Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.)
+Success: Added Coba Berry (Halves damage taken from a supereffective Flying-type attack. Single use.)
+Success: Added Chipped Pot (Evolves Sinistea-Antique into Polteageist-Antique when used.)
+Success: Added Choice Band (Holder's Attack is 1.5x, but it can only select the first move it executes.)
+Success: Added Chesto Berry (Holder wakes up if it is asleep. Single use.)
+Success: Added Cheri Berry (Holder cures itself if it is paralyzed. Single use.)
+Success: Added Charizardite X (If held by a Charizard, this item allows it to Mega Evolve in battle.)
+Success: Added Buginium Z (If holder has a Bug move, this item allows it to use a Bug Z-Move.)
+Success: Added Bug Gem (Holder's first successful Bug-type attack will have 1.3x power. Single use.)
+Success: Added Psychium Z (If holder has a Psychic move, this item allows it to use a Psychic Z-Move.)
+Success: Added Quick Powder (If held by a Ditto that hasn't Transformed, its Speed is doubled.)
+Success: Added Quick Claw (Each turn, holder has a 20% chance to move first in its priority bracket.)
+Success: Added Punching Glove (Holder's punch-based attacks have 1.1x power and do not make contact.)
+Success: Added Rare Bone (No competitive use other than when used with Fling.)
+Success: Added Razz Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Rock Memory (Holder's Multi-Attack is Rock type.)
+Success: Added Rose Incense (Holder's Grass-type attacks have 1.2x power.)
+Success: Added Roseli Berry (Halves damage taken from a supereffective Fairy-type attack. Single use.)
+Success: Added Sachet (Evolves Spritzee into Aromatisse when traded.)
+Success: Added Scope Lens (Holder's critical hit ratio is raised by 1 stage.)
+Success: Added Scizorite (If held by a Scizor, this item allows it to Mega Evolve in battle.)
+Success: Added Shiny Stone (Evolves certain species of Pokemon when used.)
+Success: Added Shed Shell (Holder may switch out even when trapped by another Pokemon, or by Ingrain.)
+Success: Added Silver Powder (Holder's Bug-type attacks have 1.2x power.)
+Success: Added Sky Plate (Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.)
+Success: Added Soft Sand (Holder's Ground-type attacks have 1.2x power.)
+Success: Added Sport Ball (A special Poke Ball for the Bug-Catching Contest.)
+Success: Added Steel Memory (Holder's Multi-Attack is Steel type.)
+Success: Added Steelium Z (If holder has a Steel move, this item allows it to use a Steel Z-Move.)
+Success: Added Stone Plate (Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.)
+Success: Added Strawberry Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Tamato Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Tapunium Z (If held by a Tapu with Nature's Madness, it can use Guardian of Alola.)
+Success: Added Tanga Berry (Halves damage taken from a supereffective Bug-type attack. Single use.)
+Success: Added Timer Ball (A Poke Ball that becomes better the more turns there are in a battle.)
+Success: Added Terrain Extender (Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.)
+Success: Added TR19 (Teaches certain Pokemon the move Tri Attack. One use.)
+Success: Added TR55 (Teaches certain Pokemon the move Flare Blitz. One use.)
+Success: Added TR65 (Teaches certain Pokemon the move Energy Ball. One use.)
+Success: Added TR13 (Teaches certain Pokemon the move Focus Energy. One use.)
+Success: Added TR42 (Teaches certain Pokemon the move Hyper Voice. One use.)
+Success: Added TR23 (Teaches certain Pokemon the move Spikes. One use.)
+Success: Added TR80 (Teaches certain Pokemon the move Electro Ball. One use.)
+Success: Added TR87 (Teaches certain Pokemon the move Drill Run. One use.)
+Success: Added TR89 (Teaches certain Pokemon the move Hurricane. One use.)
+Success: Added TR93 (Teaches certain Pokemon the move Darkest Lariat. One use.)
+Success: Added TR94 (Teaches certain Pokemon the move High Horsepower. One use.)
+Success: Added TR95 (Teaches certain Pokemon the move Throat Chop. One use.)
+Success: Added TR97 (Teaches certain Pokemon the move Psychic Fangs. One use.)
+Success: Added Psychic Gem (Holder's first successful Psychic-type attack will have 1.3x power. Single use.)
+Success: Added Quick Ball (A Poke Ball that provides a better catch rate at the start of a wild encounter.)
+Success: Added Qualot Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Ultranecrozium Z (Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.)
+Success: Added Rabuta Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Rawst Berry (Holder is cured if it is burned. Single use.)
+Success: Added Utility Umbrella (The holder ignores rain- and sun-based effects.)
+Success: Added Venusaurite (If held by a Venusaur, this item allows it to Mega Evolve in battle.)
+Success: Added Water Gem (Holder's first successful Water-type attack will have 1.3x power. Single use.)
+Success: Added Razor Claw (Holder's critical hit ratio is raised by 1 stage.)
+Success: Added Red Orb (If held by a Groudon, this item triggers its Primal Reversion in battle.)
+Success: Added Waterium Z (If holder has a Water move, this item allows it to use a Water Z-Move.)
+Success: Added Red Card (If holder survives a hit, attacker is forced to switch to a random ally. Single use.)
+Success: Added Rock Incense (Holder's Rock-type attacks have 1.2x power.)
+Success: Added Wave Incense (Holder's Water-type attacks have 1.2x power.)
+Success: Added Ribbon Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Repeat Ball (A Poke Ball that works well on Pokemon species that were previously caught.)
+Success: Added Weakness Policy (If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.)
+Success: Added Whipped Dream (Evolves Swirlix into Slurpuff when traded.)
+Success: Added Room Service (If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.)
+Success: Added Rockium Z (If holder has a Rock move, this item allows it to use a Rock Z-Move.)
+Success: Added Rowap Berry (If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.)
+Success: Added Rock Gem (Holder's first successful Rock-type attack will have 1.3x power. Single use.)
+Success: Added Sablenite (If held by a Sableye, this item allows it to Mega Evolve in battle.)
+Success: Added Rusted Sword (If held by a Zacian, this item changes its forme to Crowned Sword.)
+Success: Added Rusted Shield (If held by a Zamazenta, this item changes its forme to Crowned Shield.)
+Success: Added Safari Ball (A special Poke Ball that is used only in the Safari Zone and Great Marsh.)
+Success: Added Miracle Berry ((Gen 2) Holder cures itself if it is confused or has a status condition. Single use.)
+Success: Added Mint Berry ((Gen 2) Holder wakes up if it is asleep. Single use.)
+Success: Added Sea Incense (Holder's Water-type attacks have 1.2x power.)
+Success: Added Sharp Beak (Holder's Flying-type attacks have 1.2x power.)
+Success: Added Sharpedonite (If held by a Sharpedo, this item allows it to Mega Evolve in battle.)
+Success: Added Sceptilite (If held by a Sceptile, this item allows it to Mega Evolve in battle.)
+Success: Added Salac Berry (Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.)
+Success: Added Salamencite (If held by a Salamence, this item allows it to Mega Evolve in battle.)
+Success: Added Shell Bell (After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.)
+Success: Added Shock Drive (Holder's Techno Blast is Electric type.)
+Success: Added Silk Scarf (Holder's Normal-type attacks have 1.2x power.)
+Success: Added Skull Fossil (Can be revived into Cranidos.)
+Success: Added Sitrus Berry (Restores 1/4 max HP when at 1/2 max HP or less. Single use.)
+Success: Added Smooth Rock (Holder's use of Sandstorm lasts 8 turns instead of 5.)
+Success: Added Snowball (Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.)
+Success: Added Solganium Z (Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.)
+Success: Added Soul Dew (If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.)
+Success: Added Spell Tag (Holder's Ghost-type attacks have 1.2x power.)
+Success: Added Spooky Plate (Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.)
+Success: Added Star Sweet (Evolves Milcery into Alcremie when held and spun around.)
+Success: Added Splash Plate (Holder's Water-type attacks have 1.2x power. Judgment is Water type.)
+Success: Added Steelixite (If held by a Steelix, this item allows it to Mega Evolve in battle.)
+Success: Added Sticky Barb (Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.)
+Success: Added Strange Ball (undefined)
+Success: Added Sun Stone (Evolves certain species of Pokemon when used.)
+Success: Added Thunder Stone (Evolves certain species of Pokemon when used.)
+Success: Added TR07 (Teaches certain Pokemon the move Low Kick. One use.)
+Success: Added Tart Apple (Evolves Applin into Flapple when used.)
+Success: Added TR04 (Teaches certain Pokemon the move Surf. One use.)
+Success: Added Toxic Plate (Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.)
+Success: Added TR00 (Teaches certain Pokemon the move Swords Dance. One use.)
+Success: Added Sweet Apple (Evolves Applin into Appletun when used.)
+Success: Added Thick Club (If held by a Cubone or a Marowak, its Attack is doubled.)
+Success: Added TR01 (Teaches certain Pokemon the move Body Slam. One use.)
+Success: Added TR05 (Teaches certain Pokemon the move Ice Beam. One use.)
+Success: Added TR08 (Teaches certain Pokemon the move Thunderbolt. One use.)
+Success: Added Swampertite (If held by a Swampert, this item allows it to Mega Evolve in battle.)
+Success: Added TR02 (Teaches certain Pokemon the move Flamethrower. One use.)
+Success: Added Throat Spray (Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.)
+Success: Added TR03 (Teaches certain Pokemon the move Hydro Pump. One use.)
+Success: Added Toxic Orb (At the end of every turn, this item attempts to badly poison the holder.)
+Success: Added TR27 (Teaches certain Pokemon the move Sleep Talk. One use.)
+Success: Added TR10 (Teaches certain Pokemon the move Earthquake. One use.)
+Success: Added TR20 (Teaches certain Pokemon the move Substitute. One use.)
+Success: Added TR32 (Teaches certain Pokemon the move Crunch. One use.)
+Success: Added TR66 (Teaches certain Pokemon the move Brave Bird. One use.)
+Success: Added TR48 (Teaches certain Pokemon the move Bulk Up. One use.)
+Success: Added TR26 (Teaches certain Pokemon the move Endure. One use.)
+Success: Added TR18 (Teaches certain Pokemon the move Leech Life. One use.)
+Success: Added TR41 (Teaches certain Pokemon the move Blaze Kick. One use.)
+Success: Added TR64 (Teaches certain Pokemon the move Focus Blast. One use.)
+Success: Added TR40 (Teaches certain Pokemon the move Skill Swap. One use.)
+Success: Added TR38 (Teaches certain Pokemon the move Trick. One use.)
+Success: Added TR52 (Teaches certain Pokemon the move Gyro Ball. One use.)
+Success: Added TR25 (Teaches certain Pokemon the move Psyshock. One use.)
+Success: Added TR14 (Teaches certain Pokemon the move Metronome. One use.)
+Success: Added TR50 (Teaches certain Pokemon the move Leaf Blade. One use.)
+Success: Added TR22 (Teaches certain Pokemon the move Sludge Bomb. One use.)
+Success: Added TR43 (Teaches certain Pokemon the move Overheat. One use.)
+Success: Added TR60 (Teaches certain Pokemon the move X-Scissor. One use.)
+Success: Added TR31 (Teaches certain Pokemon the move Iron Tail. One use.)
+Success: Added TR54 (Teaches certain Pokemon the move Toxic Spikes. One use.)
+Success: Added TR16 (Teaches certain Pokemon the move Waterfall. One use.)
+Success: Added TR63 (Teaches certain Pokemon the move Power Gem. One use.)
+Success: Added TR49 (Teaches certain Pokemon the move Calm Mind. One use.)
+Success: Added TR30 (Teaches certain Pokemon the move Encore. One use.)
+Success: Added TR46 (Teaches certain Pokemon the move Iron Defense. One use.)
+Success: Added TR21 (Teaches certain Pokemon the move Reversal. One use.)
+Success: Added TR58 (Teaches certain Pokemon the move Dark Pulse. One use.)
+Success: Added TR56 (Teaches certain Pokemon the move Aura Sphere. One use.)
+Success: Added TR57 (Teaches certain Pokemon the move Poison Jab. One use.)
+Success: Added TR35 (Teaches certain Pokemon the move Uproar. One use.)
+Success: Added TR68 (Teaches certain Pokemon the move Nasty Plot. One use.)
+Success: Added TR71 (Teaches certain Pokemon the move Leaf Storm. One use.)
+Success: Added TR69 (Teaches certain Pokemon the move Zen Headbutt. One use.)
+Success: Added TR70 (Teaches certain Pokemon the move Flash Cannon. One use.)
+Success: Added TR67 (Teaches certain Pokemon the move Earth Power. One use.)
+Success: Added TR72 (Teaches certain Pokemon the move Power Whip. One use.)
+Success: Added TR74 (Teaches certain Pokemon the move Iron Head. One use.)
+Success: Added TR77 (Teaches certain Pokemon the move Grass Knot. One use.)
+Success: Added TR82 (Teaches certain Pokemon the move Stored Power. One use.)
+Success: Added TR83 (Teaches certain Pokemon the move Ally Switch. One use.)
+Success: Added TR91 (Teaches certain Pokemon the move Venom Drench. One use.)
+Success: Added TR88 (Teaches certain Pokemon the move Heat Crash. One use.)
+Success: Added TR86 (Teaches certain Pokemon the move Wild Charge. One use.)
+Success: Added TR90 (Teaches certain Pokemon the move Play Rough. One use.)
+Success: Added TR92 (Teaches certain Pokemon the move Dazzling Gleam. One use.)
+Success: Added Psychic Seed (If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.)
+Success: Added Psychic Memory (Holder's Multi-Attack is Psychic type.)
+Success: Added Protector (Evolves Rhydon into Rhyperior when traded.)
+Success: Added Unremarkable Teacup (Evolves Poltchageist into Sinistcha when used.)
+Success: Added Razor Fang (Holder's attacks without a chance to flinch gain a 10% chance to flinch.)
+Success: Added Wacan Berry (Halves damage taken from a supereffective Electric-type attack. Single use.)
+Success: Added Water Memory (Holder's Multi-Attack is Water type.)
+Success: Added Reaper Cloth (Evolves Dusclops into Dusknoir when traded.)
+Success: Added Wiki Berry (Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.)
+Success: Added Ring Target (The holder's type immunities granted solely by its typing are negated.)
+Success: Added Watmel Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Rocky Helmet (If holder is hit by a contact move, the attacker loses 1/6 of its max HP.)
+Success: Added Wepear Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Wide Lens (The accuracy of attacks by the holder is 1.1x.)
+Success: Added Root Fossil (Can be revived into Lileep.)
+Success: Added Zap Plate (Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.)
+Success: Added Wise Glasses (Holder's special attacks have 1.1x power.)
+Success: Added Yache Berry (Halves damage taken from a supereffective Ice-type attack. Single use.)
+Success: Added Wellspring Mask (Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.)
+Success: Added Zoom Lens (The accuracy of attacks by the holder is 1.2x if it moves after its target.)
+Success: Added Berry ((Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.)
+Success: Added Berserk Gene ((Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.)
+Success: Added Gold Berry ((Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.)
+Success: Added Burnt Berry ((Gen 2) Holder is cured if it is frozen. Single use.)
+Success: Added Safety Goggles (Holder is immune to powder moves and damage from Sandstorm or Hail.)
+Success: Added Sail Fossil (Can be revived into Amaura.)
+Success: Added Ice Berry ((Gen 2) Holder is cured if it is burned. Single use.)
+Success: Added Pink Bow ((Gen 2) Holder's Normal-type attacks have 1.1x power.)
+Success: Added Vile Vial (If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.)
+Success: Added Mystery Berry ((Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.)
+Success: Added Polkadot Bow ((Gen 2) Holder's Normal-type attacks have 1.1x power.)
+Success: Added Crucibellite (If held by a Crucibelle, this item allows it to Mega Evolve in battle.)
+Success: Added PSN Cure Berry ((Gen 2) Holder is cured if it is poisoned. Single use.)
+Success: Added Shuca Berry (Halves damage taken from a supereffective Ground-type attack. Single use.)
+Success: Added Snorlium Z (If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.)
+Success: Added Slowbronite (If held by a Slowbro, this item allows it to Mega Evolve in battle.)
+Success: Added Stick (If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.)
+Success: Added Steel Gem (Holder's first successful Steel-type attack will have 1.3x power. Single use.)
+Success: Added TR06 (Teaches certain Pokemon the move Blizzard. One use.)
+Success: Added Syrupy Apple (Evolves Applin into Dipplin when used.)
+Success: Added TR12 (Teaches certain Pokemon the move Agility. One use.)
+Success: Added TR37 (Teaches certain Pokemon the move Taunt. One use.)
+Success: Added TR53 (Teaches certain Pokemon the move Close Combat. One use.)
+Success: Added TR29 (Teaches certain Pokemon the move Baton Pass. One use.)
+Success: Added TR47 (Teaches certain Pokemon the move Dragon Claw. One use.)
+Success: Added TR36 (Teaches certain Pokemon the move Heat Wave. One use.)
+Success: Added TR34 (Teaches certain Pokemon the move Future Sight. One use.)
+Success: Added TR61 (Teaches certain Pokemon the move Bug Buzz. One use.)
+Success: Added TR39 (Teaches certain Pokemon the move Superpower. One use.)
+Success: Added TR59 (Teaches certain Pokemon the move Seed Bomb. One use.)
+Success: Added TR45 (Teaches certain Pokemon the move Muddy Water. One use.)
+Success: Added TR51 (Teaches certain Pokemon the move Dragon Dance. One use.)
+Success: Added TR28 (Teaches certain Pokemon the move Megahorn. One use.)
+Success: Added TR44 (Teaches certain Pokemon the move Cosmic Power. One use.)
+Success: Added TR62 (Teaches certain Pokemon the move Dragon Pulse. One use.)
+Success: Added TR76 (Teaches certain Pokemon the move Stealth Rock. One use.)
+Success: Added TR78 (Teaches certain Pokemon the move Sludge Wave. One use.)
+Success: Added TR73 (Teaches certain Pokemon the move Gunk Shot. One use.)
+Success: Added TR79 (Teaches certain Pokemon the move Heavy Slam. One use.)
+Success: Added TR84 (Teaches certain Pokemon the move Scald. One use.)
+Success: Added TR75 (Teaches certain Pokemon the move Stone Edge. One use.)
+Success: Added TR81 (Teaches certain Pokemon the move Foul Play. One use.)
+Success: Added TR85 (Teaches certain Pokemon the move Work Up. One use.)
+Success: Added TR98 (Teaches certain Pokemon the move Liquidation. One use.)
+Success: Added TR99 (Teaches certain Pokemon the move Body Press. One use.)
+Success: Added TR96 (Teaches certain Pokemon the move Pollen Puff. One use.)
+Success: Added Ultra Ball (An ultra-performance Ball that provides a higher catch rate than a Great Ball.)
+Success: Added Tyranitarite (If held by a Tyranitar, this item allows it to Mega Evolve in battle.)
+Success: Added Up-Grade (Evolves Porygon into Porygon2 when traded.)
+Success: Added Water Stone (Evolves certain species of Pokemon when used.)
+Success: Added Rindo Berry (Halves damage taken from a supereffective Grass-type attack. Single use.)
+Success: Added Bitter Berry ((Gen 2) Holder is cured if it is confused. Single use.)
+Success: Added PRZ Cure Berry ((Gen 2) Holder cures itself if it is paralyzed. Single use.)
+Success: Added TR11 (Teaches certain Pokemon the move Psychic. One use.)
+Success: Added TR24 (Teaches certain Pokemon the move Outrage. One use.)
+Success: Added TR15 (Teaches certain Pokemon the move Fire Blast. One use.)
+Success: Added TR33 (Teaches certain Pokemon the move Shadow Ball. One use.)
+Success: Added TR17 (Teaches certain Pokemon the move Amnesia. One use.)
+Success: Added Twisted Spoon (Holder's Psychic-type attacks have 1.2x power.)
+Success: Added White Herb (Restores all lowered stat stages to 0 when one is less than 0. Single use.)
+Success: Added Spelon Berry (Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.)
+Success: Added Starf Berry (Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.)
+Success: Added TR09 (Teaches certain Pokemon the move Thunder. One use.)
+Success: Removed non-standard audinite
+Success: Removed non-standard bugmemory
+Success: Removed non-standard ampharosite
+Success: Removed non-standard cameruptite
+Success: Removed non-standard dousedrive
+Success: Removed non-standard ghostmemory
+Success: Removed non-standard jawfossil
+Success: Removed non-standard latiasite
+Success: Removed non-standard latiosite
+Success: Removed non-standard manectite
+Success: Removed non-standard mail
+Success: Removed non-standard marshadiumz
+Success: Removed non-standard medichamite
+Success: Removed non-standard nomelberry
+Success: Removed non-standard normaliumz
+Success: Removed non-standard pinsirite
+Success: Removed non-standard pinapberry
+Success: Removed non-standard poisonmemory
+Success: Removed non-standard poisoniumz
+Success: Removed non-standard razzberry
+Success: Removed non-standard sablenite
+Success: Removed non-standard scizorite
+Success: Removed non-standard seaincense
+Success: Removed non-standard salamencite
+Success: Removed non-standard sceptilite
+Success: Removed non-standard snorliumz
+Success: Removed non-standard spelonberry
+Success: Removed non-standard slowbronite
+Success: Removed non-standard steeliumz
+Success: Removed non-standard tapuniumz
+Success: Removed non-standard tr11
+Success: Removed non-standard tr07
+Success: Removed non-standard tr27
+Success: Removed non-standard tr19
+Success: Removed non-standard tr28
+Success: Removed non-standard tr29
+Success: Removed non-standard tr25
+Success: Removed non-standard tr23
+Success: Removed non-standard absolite
+Success: Removed non-standard abomasite
+Success: Removed non-standard aerodactylite
+Success: Removed non-standard alakazite
+Success: Removed non-standard aggronite
+Success: Removed non-standard altarianite
+Success: Removed non-standard aloraichiumz
+Success: Removed non-standard banettite
+Success: Removed non-standard tr40
+Success: Removed non-standard armorfossil
+Success: Removed non-standard berryjuice
+Success: Removed non-standard blastoisinite
+Success: Removed non-standard tr41
+Success: Removed non-standard tr37
+Success: Removed non-standard blueorb
+Success: Removed non-standard buggem
+Success: Removed non-standard blazikenite
+Success: Removed non-standard buginiumz
+Success: Removed non-standard chilldrive
+Success: Removed non-standard charizarditey
+Success: Removed non-standard clawfossil
+Success: Removed non-standard tr54
+Success: Removed non-standard charizarditex
+Success: Removed non-standard cornnberry
+Success: Removed non-standard coverfossil
+Success: Removed non-standard decidiumz
+Success: Removed non-standard darkmemory
+Success: Removed non-standard darkgem
+Success: Removed non-standard deepseascale
+Success: Removed non-standard tr65
+Success: Removed non-standard tr61
+Success: Removed non-standard diancite
+Success: Removed non-standard tr62
+Success: Removed non-standard tr66
+Success: Removed non-standard dragongem
+Success: Removed non-standard dragonmemory
+Success: Removed non-standard dragoniumz
+Success: Removed non-standard durinberry
+Success: Removed non-standard tr71
+Success: Removed non-standard electricgem
+Success: Removed non-standard electriumz
+Success: Removed non-standard fairymemory
+Success: Removed non-standard tr70
+Success: Removed non-standard fairiumz
+Success: Removed non-standard fairygem
+Success: Removed non-standard fightinggem
+Success: Removed non-standard flyinggem
+Success: Removed non-standard flyingmemory
+Success: Removed non-standard flyiniumz
+Success: Removed non-standard tr88
+Success: Removed non-standard tr98
+Success: Removed non-standard tr84
+Success: Removed non-standard tyranitarite
+Success: Removed non-standard tr78
+Success: Removed non-standard fossilizeddrake
+Success: Removed non-standard fossilizedbird
+Success: Removed non-standard tr89
+Success: Removed non-standard fightiniumz
+Success: Removed non-standard fullincense
+Success: Removed non-standard gardevoirite
+Success: Removed non-standard tr80
+Success: Removed non-standard galladite
+Success: Removed non-standard tr86
+Success: Removed non-standard tr83
+Success: Removed non-standard tr82
+Success: Removed non-standard glalitite
+Success: Removed non-standard tr96
+Success: Removed non-standard burntberry
+Success: Removed non-standard grassiumz
+Success: Removed non-standard grassmemory
+Success: Removed non-standard iciumz
+Success: Removed non-standard houndoominite
+Success: Removed non-standard icegem
+Success: Removed non-standard groundiumz
+Success: Removed non-standard heracronite
+Success: Removed non-standard berserkgene
+Success: Removed non-standard gyaradosite
+Success: Removed non-standard groundgem
+Success: Removed non-standard bitterberry
+Success: Removed non-standard icememory
+Success: Removed non-standard kangaskhanite
+Success: Removed non-standard mysteryberry
+Success: Removed non-standard kommoniumz
+Success: Removed non-standard inciniumz
+Success: Removed non-standard lopunnite
+Success: Removed non-standard przcureberry
+Success: Removed non-standard pinkbow
+Success: Removed non-standard lucarionite
+Success: Removed non-standard magostberry
+Success: Removed non-standard lycaniumz
+Success: Removed non-standard lunaliumz
+Success: Removed non-standard metalpowder
+Success: Removed non-standard luckypunch
+Success: Removed non-standard mewtwonitey
+Success: Removed non-standard mewtwonitex
+Success: Removed non-standard metagrossite
+Success: Removed non-standard oddincense
+Success: Removed non-standard oldamber
+Success: Removed non-standard pikaniumz
+Success: Removed non-standard pamtreberry
+Success: Removed non-standard psychicgem
+Success: Removed non-standard psychicmemory
+Success: Removed non-standard rabutaberry
+Success: Removed non-standard rockgem
+Success: Removed non-standard rockincense
+Success: Removed non-standard rootfossil
+Success: Removed non-standard sailfossil
+Success: Removed non-standard rockmemory
+Success: Removed non-standard sachet
+Success: Removed non-standard roseincense
+Success: Removed non-standard sharpedonite
+Success: Removed non-standard solganiumz
+Success: Removed non-standard steelixite
+Success: Removed non-standard shockdrive
+Success: Removed non-standard skullfossil
+Success: Removed non-standard steelgem
+Success: Removed non-standard stick
+Success: Removed non-standard swampertite
+Success: Removed non-standard steelmemory
+Success: Removed non-standard tr01
+Success: Removed non-standard tr03
+Success: Removed non-standard tr04
+Success: Removed non-standard tr02
+Success: Removed non-standard tr00
+Success: Removed non-standard tr10
+Success: Removed non-standard tr06
+Success: Removed non-standard tr12
+Success: Removed non-standard tr09
+Success: Removed non-standard tr15
+Success: Removed non-standard tr14
+Success: Removed non-standard tr05
+Success: Removed non-standard tr16
+Success: Removed non-standard tr17
+Success: Removed non-standard tr18
+Success: Removed non-standard tr21
+Success: Removed non-standard tr24
+Success: Removed non-standard tr20
+Success: Removed non-standard tr26
+Success: Removed non-standard tr22
+Success: Removed non-standard tr30
+Success: Removed non-standard tr32
+Success: Removed non-standard tr34
+Success: Removed non-standard tr33
+Success: Removed non-standard tr35
+Success: Removed non-standard tr36
+Success: Removed non-standard tr48
+Success: Removed non-standard beedrillite
+Success: Removed non-standard tr56
+Success: Removed non-standard tr42
+Success: Removed non-standard belueberry
+Success: Removed non-standard blukberry
+Success: Removed non-standard tr52
+Success: Removed non-standard tr46
+Success: Removed non-standard tr45
+Success: Removed non-standard tr47
+Success: Removed non-standard burndrive
+Success: Removed non-standard tr55
+Success: Removed non-standard tr39
+Success: Removed non-standard tr44
+Success: Removed non-standard tr43
+Success: Removed non-standard tr59
+Success: Removed non-standard tr53
+Success: Removed non-standard tr57
+Success: Removed non-standard tr58
+Success: Removed non-standard darkiniumz
+Success: Removed non-standard tr63
+Success: Removed non-standard deepseatooth
+Success: Removed non-standard tr64
+Success: Removed non-standard domefossil
+Success: Removed non-standard tr67
+Success: Removed non-standard tr68
+Success: Removed non-standard tr69
+Success: Removed non-standard tr74
+Success: Removed non-standard eeviumz
+Success: Removed non-standard electricmemory
+Success: Removed non-standard tr75
+Success: Removed non-standard tr73
+Success: Removed non-standard tr94
+Success: Removed non-standard tr85
+Success: Removed non-standard tr95
+Success: Removed non-standard tr76
+Success: Removed non-standard tr77
+Success: Removed non-standard fossilizeddino
+Success: Removed non-standard fossilizedfish
+Success: Removed non-standard firegem
+Success: Removed non-standard fightingmemory
+Success: Removed non-standard tr79
+Success: Removed non-standard firiumz
+Success: Removed non-standard tr99
+Success: Removed non-standard firememory
+Success: Removed non-standard tr91
+Success: Removed non-standard garchompite
+Success: Removed non-standard tr92
+Success: Removed non-standard gengarite
+Success: Removed non-standard tr93
+Success: Removed non-standard tr87
+Success: Removed non-standard ghostgem
+Success: Removed non-standard ghostiumz
+Success: Removed non-standard tr90
+Success: Removed non-standard ultranecroziumz
+Success: Removed non-standard watmelberry
+Success: Removed non-standard wateriumz
+Success: Removed non-standard whippeddream
+Success: Removed non-standard groundmemory
+Success: Removed non-standard wepearberry
+Success: Removed non-standard goldberry
+Success: Removed non-standard watergem
+Success: Removed non-standard helixfossil
+Success: Removed non-standard watermemory
+Success: Removed non-standard iceberry
+Success: Removed non-standard waveincense
+Success: Removed non-standard miracleberry
+Success: Removed non-standard berry
+Success: Removed non-standard mintberry
+Success: Removed non-standard leek
+Success: Removed non-standard machobrace
+Success: Removed non-standard laxincense
+Success: Removed non-standard polkadotbow
+Success: Removed non-standard mawilite
+Success: Removed non-standard mewniumz
+Success: Removed non-standard poisongem
+Success: Removed non-standard plumefossil
+Success: Removed non-standard psychiumz
+Success: Removed non-standard primariumz
+Success: Removed non-standard redorb
+Success: Removed non-standard rockiumz
+Success: Removed non-standard thickclub
+Success: Removed non-standard tr08
+Success: Removed non-standard tr13
+Success: Removed non-standard tr38
+Success: Removed non-standard tr49
+Success: Removed non-standard tr51
+Success: Removed non-standard tr50
+Success: Removed non-standard tr60
+Success: Removed non-standard tr72
+Success: Removed non-standard tr97
+Success: Removed non-standard tr81
+Success: Removed non-standard grassgem
+Success: Removed non-standard venusaurite
+Success: Removed non-standard psncureberry
+Success: Removed non-standard pidgeotite
+Success: Removed non-standard pikashuniumz
+Success: Removed non-standard tr31
+Success: Removed non-standard nanabberry
+Success: Removed non-standard mimikiumz
+Success: Removed non-standard quickpowder
+Items population completed at 2024-10-14T00:52:58.030Z

@@ -1,4 +1,4 @@
-export const FormatsData = {
+const FormatsData = {
 	bulbasaur: {
 		tier: "LC",
 	},
@@ -6044,3 +6044,5 @@ export const FormatsData = {
 		tier: "Illegal",
 	},
 };
+
+module.exports = FormatsData;
