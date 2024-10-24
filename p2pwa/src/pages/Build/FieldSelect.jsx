@@ -19,7 +19,7 @@ function FieldSelect({ roster, currBuild, pokemonInfo, selectedField, setSelecte
 	}, [roster, currBuild]);
 
 	return (
-		<div className='flex flex-row border-pory-red overflow-x-hidden min-h-max'>
+		<div className='flex flex-row border-pory-red overflow-x-hidden min-h-max gap-2'>
 			<div ref={pokemonInfoRef} className='min-w-full'>
 				<div className='flex flex-col border-pory-blue border p-2 gap-2 rounded-xl min-w-full'>
 					<div className='flex flex-row justify-between'>
@@ -28,18 +28,18 @@ function FieldSelect({ roster, currBuild, pokemonInfo, selectedField, setSelecte
 							{'Go to Moves & Stats >>'}
 						</button>
 					</div>
-					<FieldSelector field={'Species'} value={build.pokemonName} selectedField={selectedField} setSelectedField={setSelectedField}/>
+					<FieldSelector field={'Species'} value={build.pokemonName} selectedField={selectedField} setSelectedField={setSelectedField} />
 					<div className='flex flex-row gap-2'>
-						<FieldSelector field={'Ability'} value={build.ability} selectedField={selectedField} setSelectedField={setSelectedField}/>
-						<FieldSelector field={'Item'} value={build.item} selectedField={selectedField} setSelectedField={setSelectedField}/>
+						<FieldSelector field={'Ability'} value={build.ability} selectedField={selectedField} setSelectedField={setSelectedField} />
+						<FieldSelector field={'Item'} value={build.item} selectedField={selectedField} setSelectedField={setSelectedField} />
 					</div>
 					<button className={`flex flex-col text-xl rounded-xl items-center text-white p-2 ${selectedField === 'Details' ? 'bg-pory-red' : 'bg-pory-blue'}`}
-					onClick={() => {setSelectedField('Details')}}>
+						onClick={() => { setSelectedField('Details') }}>
 						Details
 					</button>
 				</div>
 			</div>
-			
+
 			<div ref={movesStatsRef} className='min-w-full'>
 				<div className='flex flex-col border-pory-blue border p-2 gap-2 rounded-xl min-w-full'>
 					<div className='flex flex-row justify-between'>
@@ -49,37 +49,41 @@ function FieldSelect({ roster, currBuild, pokemonInfo, selectedField, setSelecte
 						</button>
 					</div>
 					<div className='flex flex-row gap-2'>
-						<FieldSelector field={'Move 1'} value={build.moveArray[0]} selectedField={selectedField} setSelectedField={setSelectedField}/>
-						<FieldSelector field={'Move 2'} value={build.moveArray[1]} selectedField={selectedField} setSelectedField={setSelectedField}/>
+						<FieldSelector field={'Move 1'} value={build.moveArray[0]} selectedField={selectedField} setSelectedField={setSelectedField} />
+						<FieldSelector field={'Move 2'} value={build.moveArray[1]} selectedField={selectedField} setSelectedField={setSelectedField} />
 					</div>
 					<div className='flex flex-row gap-2'>
-						<FieldSelector field={'Move 3'} value={build.moveArray[2]} selectedField={selectedField} setSelectedField={setSelectedField}/>
-						<FieldSelector field={'Move 4'} value={build.moveArray[3]} selectedField={selectedField} setSelectedField={setSelectedField}/>
+						<FieldSelector field={'Move 3'} value={build.moveArray[2]} selectedField={selectedField} setSelectedField={setSelectedField} />
+						<FieldSelector field={'Move 4'} value={build.moveArray[3]} selectedField={selectedField} setSelectedField={setSelectedField} />
 					</div>
 					<button className={`flex flex-col text-xl rounded-xl items-center text-white p-2 ${selectedField === 'Stats' ? 'bg-pory-red' : 'bg-pory-blue'}`}
-					onClick={() => {setSelectedField('Stats')}}>
+						onClick={() => { setSelectedField('Stats'); }}>
 						Stats
 					</button>
 				</div>
 			</div>
-				
+
 
 		</div>
 	);
 }
 
 const FieldSelector = ({ field, value, selectedField, setSelectedField }) => {
-	const exists = value !== null && value !== "";
+	const exists = !!value;
 
 	return (
-		<div className='flex flex-col basis-1/2'>
+		<div className='flex flex-col basis-1/2 overflow-hidden'>
 			<p className='text-white pl-2 text-sm'>{field}</p>
 			<div className={`selectfield
 				${exists ? 'text-white' : 'text-pory-blue'}
-				${selectedField === field ? 'border-pory-red' : 'border-pory-blue'}`}
-				onClick={() => {setSelectedField(field)}}
+				${selectedField === field ? 'border-pory-red' : 'border-pory-blue'} flex truncate`}
+				onClick={() => {
+					setSelectedField(field);
+				}}
 			>
-				{exists ? value.toString() : field}
+				<p>
+					{exists ? value.toString() : field}
+				</p>
 			</div>
 		</div>
 	);

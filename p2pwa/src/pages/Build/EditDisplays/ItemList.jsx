@@ -25,7 +25,7 @@ function ItemList({ roster, setRoster, currBuild }) {
 		try {
 			const response = await axios.get(`${apiUrl}/items`);
 			if (response.status === 200) {
-				console.log('Got Items');
+				// console.log('Got Items');
 				setItemList(response.data);
 			}
 		} catch (error) {

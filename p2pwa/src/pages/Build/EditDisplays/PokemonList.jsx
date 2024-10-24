@@ -1,6 +1,7 @@
 import { useState, useContext, useEffect, useRef } from 'react'
 import axios from 'axios';
 import { Virtuoso } from 'react-virtuoso';
+import TypeIcon from '../../../components/global/TypeIcon';
 
 const apiUrl = import.meta.env.VITE_API_URL;
 
@@ -122,8 +123,63 @@ function PokemonList({ roster, setRoster, currBuild, fetchPokemonInfo }) {
 const PokemonListCard = ({ pokemonInfo, onClick }) => {
 	return (
 		<div className='py-1'>
-			<div className='text-left border-pory-blue border rounded-xl active:border-pory-red p-2' onClick={() => { onClick(pokemonInfo) }}>
-				{pokemonInfo.name}, {pokemonInfo.type1}, {pokemonInfo.type2}
+			<div
+				className='text-left border-pory-blue border rounded-xl active:border-pory-red p-2 flex flex-row'
+				onClick={() => { onClick(pokemonInfo) }}
+			>
+
+				<div className='basis-1/2 flex flex-col'>
+					<div className='flex flex-row items-center'>
+						<div className='basis-9/12 truncate'>
+							{pokemonInfo.name}
+						</div>
+						<div className='h-5 w-5 flex flex-row gap-1 basis-3/12'>
+							<TypeIcon type={pokemonInfo.type1} />
+							{pokemonInfo.type2 && (
+								<TypeIcon type={pokemonInfo.type2} />
+							)}
+						</div>
+					</div>
+					<div className='text-xs'>
+						{pokemonInfo.ability0}{pokemonInfo.ability1 && ', ' + pokemonInfo.ability1}
+					</div>
+					<div className='text-xs'>
+						{pokemonInfo.abilityh}
+					</div>
+
+				</div>
+				<div className='flex flex-row gap-1 text-xs basis-1/2 justify-end font-mono'>
+					<div>
+						<p className='whitespace-pre'>HP </p>
+						<p>{pokemonInfo.hp}</p>
+					</div>
+					<div>
+						<p>Atk</p>
+						<p>{pokemonInfo.atk}</p>
+					</div>
+					<div>
+						<p>Def</p>
+						<p>{pokemonInfo.def}</p>
+					</div>
+					<div>
+						<p>SpA</p>
+						<p>{pokemonInfo.spa}</p>
+					</div>
+					<div>
+						<p>SpD</p>
+						<p>{pokemonInfo.spd}</p>
+					</div>
+					<div>
+						<p>Spe</p>
+						<p>{pokemonInfo.spe}</p>
+					</div>
+					<div>
+						<p>BST</p>
+						<p>{pokemonInfo.hp + pokemonInfo.atk + pokemonInfo.def + pokemonInfo.spa + pokemonInfo.spd + pokemonInfo.spe}</p>
+					</div>
+				</div>
+
+
 			</div>
 		</div>
 	);
